@@ -1,0 +1,26 @@
+.black{
+  background-color: black;
+
+}
+.grey{
+  background-color: rgb(133, 133, 133);
+
+}
+.green{
+  background-color: rgb(173, 231, 156);
+  
+}
+.box{
+  height: 80px;
+  width: 80px;
+  position: absolute;
+  cursor: move;
+
+}
+
+.move{
+  background-color: rgb(245, 78, 78);
+}
+.collisied{
+  background-color: rgb(90, 92, 235);
+}
